@@ -3,10 +3,9 @@
 <br> 
 
 **Collaborator**
-| [<img src="https://user-images.githubusercontent.com/65820741/125305781-9b35d600-e369-11eb-9e9f-68b5ad160e42.png" width="100">](https://github.com/hammii)
-| [<img src="https://user-images.githubusercontent.com/65820741/125305961-c1f40c80-e369-11eb-8bf9-4f3af8ea3889.png" width="100">](https://github.com/Yangheerim) | [<img src="https://user-images.githubusercontent.com/65820741/125306133-e9e37000-e369-11eb-91e9-304b4699e9b5.png" width="100">](https://github.com/Lee-so-young) |
-[<img src="https://user-images.githubusercontent.com/65820741/125306360-1d25ff00-e36a-11eb-9498-ab0485a1dd3e.png" width="100">](https://github.com/haewon-park) |
-| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-----------------------------------: |
+
+|[<img src="https://user-images.githubusercontent.com/65820741/125305781-9b35d600-e369-11eb-9e9f-68b5ad160e42.png" width="130" height="130">](https://github.com/hammii)| [<img src="https://user-images.githubusercontent.com/65820741/125305961-c1f40c80-e369-11eb-8bf9-4f3af8ea3889.png" width="130" height="130">](https://github.com/Yangheerim) | [<img src="https://user-images.githubusercontent.com/65820741/125306133-e9e37000-e369-11eb-91e9-304b4699e9b5.png" width="130" height="130">](https://github.com/Lee-so-young) | [<img src="https://user-images.githubusercontent.com/65820741/125306360-1d25ff00-e36a-11eb-9498-ab0485a1dd3e.png" width="130" height="130">](https://github.com/haewon-park) |
+| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
 <br>
 
