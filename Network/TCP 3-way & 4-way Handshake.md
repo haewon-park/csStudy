@@ -1,4 +1,4 @@
-## TCP 3 Way-Handshake & 4 Way-Handshake
+## TCP 3-way Handshake & 4-way Handshake
 
 ### 🤝 **3-way Handshake**
 
