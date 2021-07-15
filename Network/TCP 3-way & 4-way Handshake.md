@@ -4,7 +4,8 @@
 
 - Why? 장치들 사이에 논리적인 접속을 성립(establish)하기 위해
 
-![image](https://user-images.githubusercontent.com/44565524/125661341-86cf1929-3293-4730-a092-55496a4aa5cf.png)
+![image](https://user-images.githubusercontent.com/44565524/125661341-86cf1929-3293-4730-a092-55496a4aa5cf.png) ![image](https://user-images.githubusercontent.com/44565524/125732101-f11bd194-72f2-410c-a10e-d50f58c2d4b6.png)
+
 
 1. 클라이언트가 서버에게 SYN 패킷을 보냄 (sequence : x)
 2. 서버가 SYN(x)을 받고, 클라이언트로 받았다는 신호인 ACK와 SYN 패킷을 보냄 (sequence : y, ACK : x + 1)
