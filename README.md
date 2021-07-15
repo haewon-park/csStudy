@@ -12,7 +12,7 @@
 ## 📌 Network
 - [OSI 7 계층](https://github.com/haewon-park/csStudy/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - [TCP 3 way handshake & 4 way handshake](https://github.com/haewon-park/csStudy/blob/main/Network/TCP%203-way%20%26%204-way%20Handshake.md)
-- TCP/IP 흐름제어 & 혼잡제어
+- [TCP/IP 흐름제어 & 혼잡제어](https://github.com/haewon-park/csStudy/blob/main/Network/TCP_IP%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%26%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
 - UDP
 - 대칭키 & 공개키
 - HTTP & HTTPS
