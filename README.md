@@ -16,7 +16,7 @@
 - [UDP](https://github.com/haewon-park/csStudy/blob/main/Network/UDP.md)
 - 대칭키 & 공개키
 - HTTP & HTTPS
-- 로드 밸런싱(Load Balancing)
+- [로드 밸런싱(Load Balancing)](https://github.com/haewon-park/csStudy/blob/main/Network/Load%20Balancing.md)
 - Blocking & Non-Blocking I/O
 
 <br>
