@@ -14,7 +14,7 @@
 - [TCP 3 way handshake & 4 way handshake](https://github.com/haewon-park/csStudy/blob/main/Network/TCP%203-way%20%26%204-way%20Handshake.md)
 - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/haewon-park/csStudy/blob/main/Network/TCP_IP%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%26%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
 - [UDP](https://github.com/haewon-park/csStudy/blob/main/Network/UDP.md)
-- 대칭키 & 공개키
+- [대칭키 & 공개키](https://github.com/haewon-park/csStudy/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%26%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - HTTP & HTTPS
 - [로드 밸런싱(Load Balancing)](https://github.com/haewon-park/csStudy/blob/main/Network/Load%20Balancing.md)
 - Blocking & Non-Blocking I/O
