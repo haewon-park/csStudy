@@ -7,6 +7,7 @@ I/O 작업은 User level에서 직접 수행할 수 없고, Kernel level에서�
 
 네트워크에서의 I/O 작업은 소켓의 read/send를 생각하자.
 
+<br>
 
 ### 1. Blocking I/O
 > I/O 작업이 진행되는 동안 유저 프로세스는 자신의 작업을 중단한 채 대기하는 방식
