@@ -17,7 +17,7 @@
 - [대칭키 & 공개키](https://github.com/haewon-park/csStudy/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%26%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [HTTP & HTTPS](https://github.com/haewon-park/csStudy/blob/9a80476af6e2d605f6be7e7531deb6f810972057/Network/HTTP&HTTPS.md)
 - [로드 밸런싱(Load Balancing)](https://github.com/haewon-park/csStudy/blob/main/Network/Load%20Balancing.md)
-- [Blocking & Non-Blocking I/O] (https://github.com/haewon-park/csStudy/blob/main/Network/Blocking%20%26%20Non-Blocking%20IO.md)
+- [Blocking & Non-Blocking I/O](https://github.com/haewon-park/csStudy/blob/main/Network/Blocking%20%26%20Non-Blocking%20IO.md)
 
 <br>
   
