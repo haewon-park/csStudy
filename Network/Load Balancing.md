@@ -11,6 +11,8 @@
 
 <br>
 
+![img](https://user-images.githubusercontent.com/63101648/126731863-32f304ed-0d3f-4c39-9ccd-3848895a1dbc.jpg)
+
 ## Load Balancer 종류
 ### **(1) L4 로드 밸런싱**
 ![l4](https://user-images.githubusercontent.com/63101648/125741001-501ec659-dbde-4cd5-8bec-bbe131fb5030.png)
