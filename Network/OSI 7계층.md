@@ -30,7 +30,7 @@
 제어 정보들을 모두 운영체제가 제공하는 프로토콜에 의해 송신 측에서는 계층을 지날 때마다 덧붙여서 추가되고(`Encapsulation`), 수신 측에서는 계층을 지날 때마다 제거된다(`Decapsulation`).
 <br><br>
 
-#### PDU(Process Data Unit)란?
+#### PDU(Protocol Data Unit)란?
 
 _데이터 통신에서 상위 계층이 전달한 데이터에 붙이는 제어정보_
 
