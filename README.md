@@ -28,7 +28,7 @@
 - [인터럽트(Interrupt)](https://github.com/haewon-park/csStudy/blob/main/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8%20.md)
 - [시스템 콜(System Call)](https://github.com/haewon-park/csStudy/blob/5b257ba07925220d9f0c2d533bbdee358511c878/OS/systemCall.md)
 - [PCB와 Context Switching](https://github.com/haewon-park/csStudy/blob/main/OS/PCB%EC%99%80%20Context%20Switching.md)
-- IPC(Inter Process Communication)
+- [IPC(Inter Process Communication)](https://github.com/haewon-park/csStudy/blob/main/OS/IPC.md)
 - CPU 스케줄링
 - [데드락(DeadLock)](https://github.com/haewon-park/csStudy/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(Deadlock).md)
 - Race Condition
