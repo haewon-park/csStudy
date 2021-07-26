@@ -72,8 +72,37 @@
 
 <br>
 
-## 📌 OOP
+## 📌 Database
+- 키(Key) 정리
+- SQL - JOIN
+- SQL Injection
+- SQL vs NoSQL
+- 이상(Anomaly)
+- 인덱스(INDEX)
+- 트랜잭션(Transaction)
+- 트랜잭션 격리 수준(Transaction Isolation Level)
+- 레디스(Redis)
 
 <br>
 
-## 📌 Database
+## 📌 Computer Architecture
+- 컴퓨터 구조 기초
+- 컴퓨터의 구성
+- 중앙처리장치(CPU) 작동 원리
+- 캐시 메모리
+- 고정 소수점 & 부동 소수점
+- 패리티 비트 & 해밍 코드
+- ARM 프로세서
+
+<br>
+
+## 📌 Software Engineering
+- 클린코드 & 리팩토링 / 클린코드 & 시큐어코딩
+- TDD(Test Driven Development)
+- 애자일(Agile) 정리1 / 애자일(Agile) 정리2
+- 객체 지향 프로그래밍(Object-Oriented Programming)
+- 함수형 프로그래밍(Fuctional Programming)
+- 데브옵스(DevOps)
+- 서드 파티(3rd party)란?
+- 마이크로서비스 아키텍처(MSA)
+
