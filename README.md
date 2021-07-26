@@ -31,8 +31,8 @@
 - [IPC(Inter Process Communication)](https://github.com/haewon-park/csStudy/blob/main/OS/IPC.md)
 - CPU 스케줄링
 - [데드락(DeadLock)](https://github.com/haewon-park/csStudy/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(Deadlock).md)
-- [Race Condition](https://github.com/haewon-park/csStudy/blob/ddf7b70602a194eee7444d738ea23b850e10615a/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20&%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
-- 세마포어(Semaphore) & 뮤텍스(Mutex)
+- [Race Condition](https://github.com/haewon-park/csStudy/blob/9719e20415b6c58658e432b74bc02090b21db5c4/OS/Race%20condition.md)
+- [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/haewon-park/csStudy/blob/9719e20415b6c58658e432b74bc02090b21db5c4/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20&%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
 - 페이징 & 세그먼테이션 (PDF)
 - 페이지 교체 알고리즘
 - 메모리(Memory)
