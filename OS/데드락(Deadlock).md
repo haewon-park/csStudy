@@ -82,3 +82,4 @@
  - https://velog.io/@woga1999/%EB%8D%B0%EB%93%9C%EB%9D%BD%EA%B3%BC-Starvation
  - https://prinha.tistory.com/entry/%EB%8D%B0%EB%93%9C%EB%9D%BD
  - https://junco.tistory.com/120
+ - https://jhnyang.tistory.com/102(뱅커스 알고리즘 참고)
