@@ -42,7 +42,7 @@ base <= x < base + limit
 2. 프로세스 하나를 swap out하고, 이 공간을 빈 프레임으로 활용
 
 1번은 사용자에게 페이징 시스템을 들킬 가능성이 매우 높아서 하면 안 된다.
-따라서, **2번과 같은 해결책을 통해 [페이지 교체](https://github.com/haewon-park/csStudy)가 이루어져야 한다.**
+따라서, **2번과 같은 해결책을 통해 [페이지 교체](https://github.com/haewon-park/csStudy/blob/main/OS/%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)가 이루어져야 한다.**
 
 <br>
 
