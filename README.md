@@ -35,7 +35,7 @@
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/haewon-park/csStudy/blob/9719e20415b6c58658e432b74bc02090b21db5c4/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20&%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
 - [페이징 & 세그먼테이션 (PDF)](https://github.com/haewon-park/csStudy/blob/main/OS/Paging%EA%B3%BC%20Segmentation.md)
 - [가상메모리 & 페이지 교체 알고리즘](https://github.com/haewon-park/csStudy/blob/main/OS/%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- [메모리(Memory)](https://github.com/haewon-park/csStudy/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC%20(Memory).md)
+- [메모리(Memory)](https://github.com/haewon-park/csStudy/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory).md)
 - 파일 시스템
 
 <br>
