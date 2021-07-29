@@ -44,19 +44,28 @@
 
 **종류**
 1. **1단계(단일) 디렉터리** : 모든 파일이 같은 디렉터리에서 관리되는 가장 간단한 구조
-![img](https://mblogthumb-phinf.pstatic.net/20130712_19/jevida_1373614946282NSqC3_PNG/2.png?type=w2)
 	* 모든 파일이 유일한 이름을 가져야 한다.
 	* 다수의 사용자가 사용하거나 파일의 수가 증가할 때 관리가 어렵다.
+	
+	![img](https://mblogthumb-phinf.pstatic.net/20130712_19/jevida_1373614946282NSqC3_PNG/2.png?type=w2)
+
+<br>
 
 2. **트리 구조 디렉터리** : 하나의 루트 디렉터리와 다수의 서브 디렉터리로 구성된 구조
-![img](https://mblogthumb-phinf.pstatic.net/20130712_54/jevida_1373614946394ebYC2_PNG/3.png?type=w2)
     * 서로 다른 다릭터리 내에서는 동일한 이름의 파일이나 디렉터리 생성 가능하다.
     * 탐색은 `절대 경로`, `상대 경로`를 이용한다.
+    
+    ![img](https://mblogthumb-phinf.pstatic.net/20130712_54/jevida_1373614946394ebYC2_PNG/3.png?type=w2)
+
+<br>
 
 3. 2단계 디렉터리 
-4. 비순환(비주기) 그래프 디렉터리
+<br>
 
-  *위의 3, 4번은 아래 참고 자료 참고*
+4. 비순환(비주기) 그래프 디렉터리
+<br>
+
+*위의 3, 4번은 아래 참고 자료 참고*
 
 ##
 
