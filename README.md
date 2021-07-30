@@ -36,7 +36,7 @@
 - [페이징 & 세그먼테이션 (PDF)](https://github.com/haewon-park/csStudy/blob/main/OS/Paging%EA%B3%BC%20Segmentation.md)
 - [가상메모리 & 페이지 교체 알고리즘](https://github.com/haewon-park/csStudy/blob/main/OS/%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [메모리(Memory)](https://github.com/haewon-park/csStudy/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory).md)
-- 파일 시스템
+- [파일 시스템](https://github.com/haewon-park/csStudy/blob/679bb0a0ea86cac731466f6d8660b3d80aac6eef/OS/fileSystem.md)
 
 <br>
   
