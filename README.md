@@ -40,16 +40,16 @@
 
 <br>
   
-## 📌 Data structure
-- Array
-- LinkedList
-- Array & ArrayList & LinkedList
-- 스택(Stack) & 큐(Queue)
-- 힙(Heap)
-- 이진탐색트리(Binary Search Tree)
-- 해시(Hash)
-- 트라이(Trie)
-- B-Tree & B+Tree
+## 📌 Database
+- 키(Key) 정리
+- SQL - JOIN
+- SQL Injection
+- SQL vs NoSQL
+- 이상(Anomaly)
+- 인덱스(INDEX)
+- 트랜잭션(Transaction)
+- 트랜잭션 격리 수준(Transaction Isolation Level)
+- 레디스(Redis)
 
 <br>
   
@@ -72,16 +72,16 @@
 
 <br>
 
-## 📌 Database
-- 키(Key) 정리
-- SQL - JOIN
-- SQL Injection
-- SQL vs NoSQL
-- 이상(Anomaly)
-- 인덱스(INDEX)
-- 트랜잭션(Transaction)
-- 트랜잭션 격리 수준(Transaction Isolation Level)
-- 레디스(Redis)
+## 📌 Data structure
+- Array
+- LinkedList
+- Array & ArrayList & LinkedList
+- 스택(Stack) & 큐(Queue)
+- 힙(Heap)
+- 이진탐색트리(Binary Search Tree)
+- 해시(Hash)
+- 트라이(Trie)
+- B-Tree & B+Tree
 
 <br>
 
