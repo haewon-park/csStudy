@@ -47,7 +47,7 @@
 - SQL vs NoSQL
 - 이상(Anomaly)
 - 인덱스(INDEX)
-- 트랜잭션(Transaction)
+- [트랜잭션(Transaction)](https://github.com/haewon-park/csStudy/blob/5187a100f8e37149a2e08b5a2ba4976035bbd051/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 - 트랜잭션 격리 수준(Transaction Isolation Level)
 - 레디스(Redis)
 
