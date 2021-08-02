@@ -48,7 +48,7 @@
 - [이상(Anomaly)](https://github.com/haewon-park/csStudy/blob/main/DataBase/%EC%9D%B4%EC%83%81(Anomaly).md)
 - [인덱스(INDEX)](https://github.com/haewon-park/csStudy/blob/main/DataBase/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
 - [트랜잭션(Transaction)](https://github.com/haewon-park/csStudy/blob/ddbf312942da0882e818ccd526c3d2480e03306a/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
-- [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/haewon-park/csStudy/blob/bcb12459e03c375c2ea81da1c929aa82dfdd4de9/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80.md)
+- [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/haewon-park/csStudy/blob/6929b691c7c12260d23c096b7c7fb76e19323027/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80.md)
 - [레디스(Redis)](https://github.com/haewon-park/csStudy/blob/main/DataBase/Redis.md)
 
 <br>
