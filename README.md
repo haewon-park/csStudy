@@ -41,9 +41,9 @@
 <br>
   
 ## 📌 Database
-- 키(Key) 정리
-- SQL - JOIN
-- SQL Injection
+- [키(Key) 정리](https://github.com/haewon-park/csStudy/blob/main/DataBase/Key.md)
+- [SQL - JOIN](https://github.com/haewon-park/csStudy/blob/main/DataBase/JOIN.md)
+- [SQL Injection](https://github.com/haewon-park/csStudy/blob/main/DataBase/SQL%20Injection.md)
 - [SQL vs NoSQL](https://github.com/haewon-park/csStudy/blob/main/DataBase/SQL%20vs%20NoSQL.md)
 - [이상(Anomaly)](https://github.com/haewon-park/csStudy/blob/main/DataBase/%EC%9D%B4%EC%83%81(Anomaly).md)
 - [인덱스(INDEX)](https://github.com/haewon-park/csStudy/blob/main/DataBase/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
