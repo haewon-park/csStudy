@@ -52,7 +52,40 @@
 - [레디스(Redis)](https://github.com/haewon-park/csStudy/blob/main/DataBase/Redis.md)
 
 <br>
-  
+
+## 📌 Algorithm  
+- 브라우저 동작 방법
+- 쿠키(Cookie) & 세션(Session)
+- HTTP Status Code
+- REST API
+- 웹 서버와 WAS의 차이점
+- OAuth
+- JWT(JSON Web Token)
+- Authentication and Authorization
+- 로그 레벨
+- UI와 UX
+- CSR & SSR
+- Vue.js vs React
+- 네이티브 앱 & 웹 앱 & 하이브리드 앱
+- PWA(Progressive Web App)
+- CSRF & XSS
+- Spring
+  - Spring MVC Framework
+  - Spring Security - 인증 및 권한 부여
+  - JPA
+- Vue.js
+  - Vue.js 라이프사이클
+  - Vue CLI + Spring Boot 연동하여 환경 구축하기
+  - Vue.js + Firebase로 이메일 회원가입&로그인 구현하기
+  - Vue.js + Firebase로 Facebook 로그인 연동하기
+  - Nuxt.js란
+- React
+  - React Fragment
+  - React Hook
+  - React + Spring Boot 연동하여 환경 구축하기
+
+<br>
+
 ## 📌 Algorithm
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
