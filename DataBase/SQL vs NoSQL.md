@@ -6,7 +6,17 @@
 - 데이터베이스 자체를 나타내기보단 특정 유형의 데이터베이스와 상호 작용하는데 사용하는 쿼리 언어 
 - 데이터는 **정해진 데이터 스키마**에 따라 테이블에 저장됨
 - 데이터는 **관계**를 통해 **여러 테이블에 분산**됨
-- RDBMS에서 데이터 저장, 수정, 삭제 가능 
+- RDBMS에서 데이터 저장, 수정, 삭제 가능
+
+1. **엄격한 스키마**
+
+![schema](https://user-images.githubusercontent.com/63101648/127866569-b867f499-7fec-4c92-9a48-46aa0157bb8e.jpeg)
+
+2. **관계**
+
+![relation](https://user-images.githubusercontent.com/63101648/127866793-ecaeab0f-6559-4fac-8dbd-551654d46a43.jpeg)
+
+
 ### NoSQL
 - **비관계형** 또는 **분산 데이터베이스**
 - NO 스키마, NO 관계
