@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/44565524/127948541-b88030b7-90a9-4628-84f0-d0d092ebbc24.png)
+
 ### 인덱스 (INDEX)
 > 테이블에 대한 동작의 속도를 높여주는 자료 구조
 
