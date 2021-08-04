@@ -57,7 +57,7 @@
 - 브라우저 동작 방법
 - 쿠키(Cookie) & 세션(Session)
 - [HTTP Status Code](https://github.com/haewon-park/csStudy/blob/main/Web/HTTP%20Status%20Code.md)
-- [REST API](https://github.com/haewon-park/csStudy/blob/8a743c588a7633ad2a7dbea88d7bc8fce430d39f/Web/restAPI.md)
+- [REST API](https://github.com/haewon-park/csStudy/blob/main/Web/restAPI.md)
 - [웹 서버와 WAS의 차이점](https://github.com/haewon-park/csStudy/blob/main/Web/%EC%9B%B9%20%EC%84%9C%EB%B2%84%20vs%20WAS.md)
 - OAuth
 - JWT(JSON Web Token)
