@@ -130,7 +130,7 @@ PUT은 통째로, PATCH는 부분 update할 때 사용
 ---
 
 **참고 자료**
-* **[응답 상태 코드](https://github.com/haewon-park/csStudy/blob/f482c3fc7668f143241d2b6ff5318115c91e6300/Web/HTTP%20Status%20Code.md)**
+* **[응답 상태 코드](https://github.com/haewon-park/csStudy/blob/main/Web/HTTP%20Status%20Code.md)**
 * https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 * https://sabarada.tistory.com/26
 * [RESTful 웹서비스 질문 목록](https://ko.myservername.com/top-20-restful-web-services-interview-question)
