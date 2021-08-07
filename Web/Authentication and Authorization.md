@@ -9,11 +9,15 @@
 - 서비스를 누가 사용하며, 추적이 가능하도록 하기 위함
 - 타인에게 사용자의 정보를 보호하기 위함
 
+<br>
+
 ## Authorization(인가)
 - 접근 제어라고도 할 수 있음
 - 권한을 부여하는 것으로 클라이언트가 하고자 하는 작업이 해당 클라이언트에게 허가된 작업인지를 확인
 - 특정 자원에 대한 접근 권한이 있는지 확인
-- 유저에 대한 권한 허락 
+- 유저에 대한 권한 허락
+
+  <br>
 
 ## Authorization 절차
 - 인가 절차를 통해 access token을 생성
@@ -28,6 +32,8 @@
 - 리소스에 접근하기 위해서는 인증과 권한이 필요
 - Authentication(인증)은 본인의 신분을 증명하는 것
 - Authorization(인가)는 인증하고 나면 그 다음 절차를 할 수 있게 되는 것 
+
+<br>
 
 ## 출처
 - https://velog.io/@sdc337dc/%EC%9B%B9-%EC%9D%B8%EC%A6%9DAuthentication-%EC%9D%B8%EA%B0%80Authorization
