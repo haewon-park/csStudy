@@ -60,7 +60,7 @@
 - [REST API](https://github.com/haewon-park/csStudy/blob/main/Web/restAPI.md)
 - [웹 서버와 WAS의 차이점](https://github.com/haewon-park/csStudy/blob/main/Web/%EC%9B%B9%20%EC%84%9C%EB%B2%84%20vs%20WAS.md)
 - [OAuth](https://github.com/haewon-park/csStudy/blob/main/Web/OAuth.md)
-- JWT(JSON Web Token)
+- [JWT(JSON Web Token)](https://github.com/haewon-park/csStudy/blob/main/Web/JWT(Java%20Web%20Token).md)
 - [Authentication and Authorization](https://github.com/haewon-park/csStudy/blob/main/Web/Authentication%20and%20Authorization.md)
 - 로그 레벨
 - UI와 UX
