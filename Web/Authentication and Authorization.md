@@ -36,10 +36,10 @@
 
 ### 인증과 인가의 방법
 - 인증하기 : Request Header
-- 인증 유지하기 : Cookie & Session
+- 인증 유지하기 : [Cookie & Session](https://github.com/haewon-park/csStudy/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%20%26%20%EC%84%B8%EC%85%98(Session).md)
 - 안전하게 인증하기 : Server
-- 효율적으로 인증하기 : Token
-- 다른 채널을 통해 인증하기 : OAuth
+- 효율적으로 인증하기 : [Token](https://github.com/haewon-park/csStudy/blob/main/Web/JWT(Java%20Web%20Token).md)
+- 다른 채널을 통해 인증하기 : [OAuth](https://github.com/haewon-park/csStudy/blob/main/Web/OAuth.md)
 
 <br>
 
