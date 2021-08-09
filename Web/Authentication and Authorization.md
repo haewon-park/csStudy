@@ -56,3 +56,4 @@
 - https://velog.io/@aaronddy/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
 - https://ivorycode.tistory.com/entry/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
 - https://kingpiggylab.tistory.com/307
+- https://daily-mulgyeol.tistory.com/60
