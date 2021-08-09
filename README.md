@@ -63,7 +63,7 @@
 - [JWT(JSON Web Token)](https://github.com/haewon-park/csStudy/blob/main/Web/JWT(Java%20Web%20Token).md)
 - [Authentication and Authorization](https://github.com/haewon-park/csStudy/blob/main/Web/Authentication%20and%20Authorization.md)
 - [로그 레벨](https://github.com/haewon-park/csStudy/blob/main/Web/%EB%A1%9C%EA%B9%85%20%EB%A0%88%EB%B2%A8%20(Logging%20Level).md)
-- UI와 UX
+- [UI와 UX](https://github.com/haewon-park/csStudy/blob/main/Web/UI%EC%99%80%20UX.md)
 - CSR & SSR
 - Vue.js vs React
 - 네이티브 앱 & 웹 앱 & 하이브리드 앱
