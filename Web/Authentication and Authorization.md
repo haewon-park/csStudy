@@ -1,5 +1,7 @@
 # Authentication and Authorization
 
+![auth](https://user-images.githubusercontent.com/63101648/128670132-3d31d13b-f20e-4836-954f-54e20e36b425.jpeg)
+
 ## Authentication(인증)
 - 클라이언트가 자신이 주장하는 사용자와 같은 사용자인지를 확인하는 과정
 - 유저가 **누구인지 확인하는 절차**
@@ -32,6 +34,15 @@
 
 <br>
 
+### 인증과 인가의 방법
+- 인증하기 : Request Header
+- 인증 유지하기 : Cookie & Session
+- 안전하게 인증하기 : Server
+- 효율적으로 인증하기 : Token
+- 다른 채널을 통해 인증하기 : OAuth
+
+<br>
+
 ### 🥕정리
 - 유저의 목표는 리소스(웹페이지, 텍스트, 이미지 등)에 접근하는 것
 - 리소스에 접근하기 위해서는 인증과 권한이 필요
@@ -43,3 +54,5 @@
 ## 출처
 - https://velog.io/@sdc337dc/%EC%9B%B9-%EC%9D%B8%EC%A6%9DAuthentication-%EC%9D%B8%EA%B0%80Authorization
 - https://velog.io/@aaronddy/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
+- https://ivorycode.tistory.com/entry/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
+- https://kingpiggylab.tistory.com/307
