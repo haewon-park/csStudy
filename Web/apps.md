@@ -1,3 +1,4 @@
+
 # Apps
 ## 1. Native App
 ### Native App이란?
@@ -66,7 +67,17 @@
 
 ### 추가 질문
 **Q. 하이브리드  앱에서  세션  관리를  위해  필요한  처리는  무엇인가요?**
-A. 
+
+*하이브리드 앱에서 세션이 문제가 되는 이유?*
+1. 세션은 IP단위로 유지되기 때문에 와이파이 사용 등 IP변경이 잦은 모바일 단말기는 세션이 자주 풀린다.  
+2. 웹뷰 내부에선 세션이 있더라도 RestAPI호출시엔 그 세션정보가 없다. (다른 브라우저처럼 쿠키가 다르다)  
+  
+*해결법은?*
+1. 세션이 아닌 다른 로그인 유지장치를 사용한다. 이를테면 preference나 sqlite같은 local DB. 또는 fcmKey 등
+2. CookieManager를 통한 쿠키 공유
+
+
+
 
 <br>
 
@@ -97,3 +108,4 @@ A.
 ---
 **참고 자료**
 * https://velog.io/@nezhitsya/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-03
+* [하이브리드 앱에서의 세션 관리](https://raisonde.tistory.com/entry/%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C%EC%9D%98-%EC%84%B8%EC%85%98%EA%B4%80%EB%A6%AC%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%83%81%ED%83%9C-%EC%9C%A0%EC%A7%80)
