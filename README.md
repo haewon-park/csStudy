@@ -66,7 +66,7 @@
 - [UI와 UX](https://github.com/haewon-park/csStudy/blob/main/Web/UI%EC%99%80%20UX.md)
 - CSR & SSR
 - Vue.js vs React
-- 네이티브 앱 & 웹 앱 & 하이브리드 앱
+- [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/haewon-park/csStudy/blob/main/Web/apps.md)
 - PWA(Progressive Web App)
 - CSRF & XSS
 - Spring
