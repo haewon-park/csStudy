@@ -23,6 +23,7 @@
 ### Web App이란?
 <img src = "https://user-images.githubusercontent.com/65820741/128849623-e1a96bdd-89d1-4edb-9be5-59a09b4e29cb.png" width="50%" height="50%">
 > 모바일 웹 + 네이티브 앱
+
 *사파리로 네이버 들어간 느낌!*
 
 <br>
