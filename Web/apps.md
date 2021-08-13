@@ -62,7 +62,7 @@
 
 <br>
 
-### Mobile Web vs Hybrid Web
+### Mobile Web vs Hybrid App
 ![img](https://user-images.githubusercontent.com/65820741/128850242-8c707687-7572-4c0a-b9e5-83fe8dc395b6.png)
 <br>
 
