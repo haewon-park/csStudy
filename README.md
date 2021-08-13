@@ -65,7 +65,6 @@
 - [로그 레벨](https://github.com/haewon-park/csStudy/blob/main/Web/%EB%A1%9C%EA%B9%85%20%EB%A0%88%EB%B2%A8%20(Logging%20Level).md)
 - [UI와 UX](https://github.com/haewon-park/csStudy/blob/main/Web/UI%EC%99%80%20UX.md)
 - [CSR & SSR](https://github.com/haewon-park/csStudy/blob/main/Web/CSR%20%26%20SSR.md)
-- Vue.js vs React
 - [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/haewon-park/csStudy/blob/main/Web/apps.md)
 - [PWA(Progressive Web App)](https://github.com/haewon-park/csStudy/blob/main/Web/PWA%20(Progressive%20Web%20App).md)
 - [CSRF & XSS](https://github.com/haewon-park/csStudy/blob/main/Web/CSRF%20&%20XSS.md)
