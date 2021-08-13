@@ -85,6 +85,19 @@
 
 <br>
 
+## 📌 Data structure
+- Array
+- LinkedList
+- Array & ArrayList & LinkedList
+- 스택(Stack) & 큐(Queue)
+- 힙(Heap)
+- 이진탐색트리(Binary Search Tree)
+- 해시(Hash)
+- 트라이(Trie)
+- B-Tree & B+Tree
+
+<br>
+
 ## 📌 Algorithm
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
@@ -101,19 +114,6 @@
 - 최소 공통 조상(LCA)
 - 동적 계획법(Dynamic Programming)
 - 비트마스크(BitMask)
-
-<br>
-
-## 📌 Data structure
-- Array
-- LinkedList
-- Array & ArrayList & LinkedList
-- 스택(Stack) & 큐(Queue)
-- 힙(Heap)
-- 이진탐색트리(Binary Search Tree)
-- 해시(Hash)
-- 트라이(Trie)
-- B-Tree & B+Tree
 
 <br>
 
