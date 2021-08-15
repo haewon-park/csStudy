@@ -87,8 +87,8 @@
 
 ## 📌 Data structure
 - Array & ArrayList & LinkedList
-- 스택(Stack) & 큐(Queue)
-- 힙(Heap)
+- [스택(Stack) & 큐(Queue)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Queue%20%26%20Stack.md)
+- [힙(Heap)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Heap.md)
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
 - 트라이(Trie)
