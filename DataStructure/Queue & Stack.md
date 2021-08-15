@@ -184,7 +184,7 @@ public boolean isFull() {
 
 => 이를 개선한 것이 `원형 큐` : 논리적으로 **배열의 처음과 끝이 연결되어 있는 것**으로 간주한다!
 
-![](https://images.velog.io/images/yanghl98/post/7b0f7bbf-2d08-4e72-8bfe-0c0a63c4e91f/image.png)
+![](https://images.velog.io/images/yanghl98/post/7b0f7bbf-2d08-4e72-8bfe-0c0a63c4e91f/image.png)<br><br>
 (이미지 출처 : https://blog.daum.net/lkno01/67)
 
 - 원형 큐는 초기 공백 상태일 때 front와 rear가 0
