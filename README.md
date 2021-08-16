@@ -90,7 +90,7 @@
 - [스택(Stack) & 큐(Queue)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Queue%20%26%20Stack.md)
 - [힙(Heap)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Heap.md)
 - [이진탐색트리(Binary Search Tree)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC%20(Binary%20Search%20Tree).md)
-- 해시(Hash)
+- [해시(Hash)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/%ED%95%B4%EC%8B%9C(Hash).md)
 - [트라이(Trie)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/trie.md)
 - [B-Tree & B+Tree](https://github.com/haewon-park/csStudy/blob/main/DataStructure/B-Tree%20%26%20B%2BTree.md)
 
