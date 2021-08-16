@@ -86,7 +86,7 @@
 <br>
 
 ## 📌 Data structure
-- Array & ArrayList & LinkedList
+- [Array & ArrayList & LinkedList](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Array%20&%20ArrayList%20&%20LinkedList.md)
 - [스택(Stack) & 큐(Queue)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Queue%20%26%20Stack.md)
 - [힙(Heap)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Heap.md)
 - 이진탐색트리(Binary Search Tree)
