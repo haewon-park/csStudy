@@ -101,6 +101,15 @@
 
 <br>
 
+## 📌 Cloud Computing
+- 클라우드 / 클라우드 서비스 / 클라우드 컴퓨팅 / 종류
+- 5G
+- 엣지컴퓨팅(Edge Computing)
+- 가상화 / 컨테이너
+- 도커(Docker)
+
+<br>
+
 ## 📌 Algorithm
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
