@@ -50,7 +50,7 @@
 
 <br>
 
-## **B+-Tree**
+## **B+Tree**
 
 ![b+](https://user-images.githubusercontent.com/63101648/129307396-3a379059-c0fe-42c7-849a-b740b4700d9e.png)
 
@@ -60,7 +60,28 @@
 
 <br>
 
-## B+-Tree의 장점
+
+### B+Tree 삽입
+
+![b_plus_tree_6](https://user-images.githubusercontent.com/63101648/129515281-12af1589-53dc-4ae2-ae78-55b1726ba578.png)
+
+- B트리의 리프 노드에 삽입하는 것과 유사
+- 차이점이라면 리프 노드 분할 시 중간 키 값의 복사본이 부모 인덱스 노드로 올라간다.
+
+<br> 
+
+### B+Tree 삭제
+
+![b_plus_tree_7](https://user-images.githubusercontent.com/63101648/129515325-6c32c329-effd-44f2-a0fd-5de63c11f88b.png)
+
+- B트리와 유사
+- 차이점
+  - 키 값의 삭제는 리프 노드에서만 수향
+  - 인덱스 세트의 키 값을 삭제할 필요할 있는 경우에는 삭제하지 않고 분리자로 이용
+
+<br> 
+
+### B+Tree의 장점
 - 리프 노드를 제외하고 데이터를 담아두지 않기 때문에 메모리를 더 확보함으로써 더 많은 키들을 수용할 수 있음
 - 하나의 노드에 더 많은 키들을 담을 수 있어 트리의 높이는 더 낮아짐
 - B-Tree는 모든 노드를 확인해야하지만 B+-Tree는 리프 노드에 데이터가 모두 존재하기에 한번의 선형 탐색만 이뤄지므로 더 빠름 
@@ -88,6 +109,7 @@ https://www.cs.usfca.edu/~galles/visualization/BTree.html
 - https://zorba91.tistory.com/293
 - https://matice.tistory.com/8
 - https://velog.io/@syeeuns/B-tree-%EA%B2%80%EC%83%89-%EC%82%BD%EC%9E%85-%EC%82%AD%EC%A0%9C
+- https://goodgid.github.io/FP-B+-Tree/
 - https://www.programiz.com/dsa/b-tree
 - https://www.programiz.com/dsa/insertion-into-a-b-tree (B트리 삽입 예시)
 - https://www.programiz.com/dsa/deletion-from-a-b-tree (B트리 삭제 예시)
