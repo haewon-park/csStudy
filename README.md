@@ -91,7 +91,7 @@
 - [힙(Heap)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Heap.md)
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
-- 트라이(Trie)
+- [트라이(Trie)](https://github.com/haewon-park/csStudy/blob/main/DataStructure/trie.md)
 - [B-Tree & B+Tree](https://github.com/haewon-park/csStudy/blob/main/DataStructure/B-Tree%20%26%20B%2BTree.md)
 
 <br>
