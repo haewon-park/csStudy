@@ -1,6 +1,8 @@
 # **B-Tree & B+Tree**
 
-## **B-Tree**
+## **🥕B-Tree**
+
+![image](https://user-images.githubusercontent.com/63101648/129515925-f0d3c94f-ef15-42b3-a135-8d629a304537.png)
 
 <br>
 
@@ -29,6 +31,12 @@
 
 <br>
 
+### DB Index로 B트리가 가장 적합한 이유
+1. 항상 정렬된 상태로 특정 값보다 크고 작은 부등호 연산에 문제가 없다.
+2. 참조 포인터가 적어 방대한 데이터 양에도 빠른 메모리 접근이 가능
+3. 데이터 탐색 뿐만 아니라 저장, 수정, 삭제에도 항상 O(log n)의 시간복잡도를 가진다. 
+
+<br>
 
 ### B트리의 **삽입**
 1. 자료는 **항상 리프 노드에 추가**된다.
@@ -50,7 +58,7 @@
 
 <br>
 
-## **B+Tree**
+## **🥕B+Tree**
 
 ![b+](https://user-images.githubusercontent.com/63101648/129307396-3a379059-c0fe-42c7-849a-b740b4700d9e.png)
 
@@ -109,6 +117,7 @@ https://www.cs.usfca.edu/~galles/visualization/BTree.html
 - https://zorba91.tistory.com/293
 - https://matice.tistory.com/8
 - https://velog.io/@syeeuns/B-tree-%EA%B2%80%EC%83%89-%EC%82%BD%EC%9E%85-%EC%82%AD%EC%A0%9C
+- https://velog.io/@jun7867/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84
 - https://goodgid.github.io/FP-B+-Tree/
 - https://www.programiz.com/dsa/b-tree
 - https://www.programiz.com/dsa/insertion-into-a-b-tree (B트리 삽입 예시)
