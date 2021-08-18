@@ -105,7 +105,7 @@
 - 클라우드 / 클라우드 서비스 / 클라우드 컴퓨팅 / 종류
 - 5G
 - 엣지컴퓨팅(Edge Computing)
-- 가상화 / 컨테이너
+- [가상화 - 하이퍼바이저, 컨테이너](https://github.com/haewon-park/csStudy/blob/main/CloudComputing/Virtualization(%EA%B0%80%EC%83%81%ED%99%94)%20-%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%B0%94%EC%9D%B4%EC%A0%80,%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
 - 도커(Docker)
 
 <br>
