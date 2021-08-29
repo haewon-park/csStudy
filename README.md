@@ -95,7 +95,7 @@
 - [B-Tree & B+Tree](https://github.com/haewon-park/csStudy/blob/main/DataStructure/B-Tree%20%26%20B%2BTree.md)
 - Red Black Tree
 - [Map & Set](https://github.com/haewon-park/csStudy/blob/main/DataStructure/Map%20%26%20Set.md)
-- MST
+- [MST](https://github.com/haewon-park/csStudy/blob/main/DataStructure/MST.md)
 - Graph
 
 <br>
