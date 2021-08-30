@@ -118,12 +118,8 @@
 - 힙 정렬(Heap Sort)
 - 기수 정렬(Radix Sort)
 - 계수 정렬(Count Sort)
-- 이분 탐색(Binary Search)
-- 해시 테이블 구현
-- DFS & BFS
 - 최장 증가 수열(LIS)
 - 최소 공통 조상(LCA)
-- 동적 계획법(Dynamic Programming)
 - 비트마스크(BitMask)
 
 <br>
