@@ -1,4 +1,4 @@
-## 1. RB Tree란?
+## 1. Red Black Tree란?
 ### 정의
 >Balanced binary search tree
 
