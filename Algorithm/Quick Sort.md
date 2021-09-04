@@ -11,7 +11,7 @@
 
 <br>
 
-![quick](https://user-images.githubusercontent.com/63101648/132096582-4f6bf29b-98c6-48e1-91ad-60470d08680f.png)
+![quick-sort2](https://user-images.githubusercontent.com/63101648/132097390-1e0a796e-fa3d-409c-b975-b1465cbe4eb2.png)
 
 1. 리스트 중 하나의 원소를 고른다 (= **pivot 지정**)
 2. pivot 기준 **앞에는 작은 값**을 가진 원소들이, **뒤에는 큰 값**을 가진 원소들이 오도록 pivot을 기준으로 리스트를 둘로 나눈다.
