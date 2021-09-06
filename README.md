@@ -117,8 +117,8 @@
 - [병합 정렬(Merge Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Merge%20Sort.md)
 - [힙 정렬(Heap Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Heap%20Sort.md)
 - [기수 정렬(Radix Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Radix%20Sort.md)
-- 계수 정렬(Count Sort)
-- 최장 증가 수열(LIS)
+- [계수 정렬(Count Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Count%20Sort.md)
+- [최장 증가 수열(LIS)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/LIS.md)
 - 최소 공통 조상(LCA)
 - 비트마스크(BitMask)
 
