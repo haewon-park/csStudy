@@ -50,6 +50,13 @@
 
 <br>
 
+### **안정 정렬**
+동일한 값에 대해 기존의 순서가 유지되는 정렬 방식
+### **제자리 정렬**
+주어진 공간 외에 추가적인 공간을 사용하지 않는 정렬 
+
+<br>
+
 ### 출처
 - https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html
 - https://velog.io/@roro/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%A9%EB%B3%91%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC
