@@ -111,8 +111,8 @@
 
 ## 📌 Algorithm
 - [거품 정렬(Bubble Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/BubbleInsertionSelectionSort.md)
-- [선택 정렬(Selection Sort]((https://github.com/haewon-park/csStudy/blob/main/Algorithm/BubbleInsertionSelectionSort.md))
-- [삽입 정렬(Insertion Sort)]((https://github.com/haewon-park/csStudy/blob/main/Algorithm/BubbleInsertionSelectionSort.md))
+- [선택 정렬(Selection Sort](https://github.com/haewon-park/csStudy/blob/main/Algorithm/BubbleInsertionSelectionSort.md)
+- [삽입 정렬(Insertion Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/BubbleInsertionSelectionSort.md)
 - [퀵 정렬(Quick Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Quick%20Sort.md)
 - [병합 정렬(Merge Sort)](https://github.com/haewon-park/csStudy/blob/main/Algorithm/Merge%20Sort.md)
 - 힙 정렬(Heap Sort)
